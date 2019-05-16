@@ -49,7 +49,7 @@ X = raw_input("""
 
 
 [+] ID/ATTACK : """)
-Z = 'uni1bahga'
+
 
 C = raw_input(G + """
 [+] MESSAGE : """ )
